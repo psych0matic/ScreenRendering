@@ -120,10 +120,14 @@
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581970300937" />
     <state width="1481" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582058710908" />
-    <state x="401" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1582058486813">
+    <state x="401" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1582058936284">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="401" y="215" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1582058486813" />
+    <state x="401" y="215" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1582058936284" />
+    <state x="546" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582058968970">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="546" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1582058968970" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ScreenRendering$App.ic" NAME="App Coverage Results" MODIFIED="1582058557592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
