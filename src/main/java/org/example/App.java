@@ -28,7 +28,8 @@ public class App implements Runnable
         g2d.clearRect(0,0,canvas.getWidth(),canvas.getHeight());
 
         // ACTUAL DRAWING PART
-        Rectangle2D r = new Rectangle2D.Double(100,100,100,100);
+        Rectangle2D r = new Rectangle2D.Double(150,-50,100,100);
+        g2d.rotate(Math.toRadians(45));
         g2d.setColor(Color.white);
         g2d.draw(r);
 
