@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66014258-e71f-444a-88dc-e2e780a8a054" name="Default Changelist" comment="" />
+    <list default="true" id="66014258-e71f-444a-88dc-e2e780a8a054" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +15,14 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="7aa429d4c88c9560470d15182f6db24660b13728" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -28,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -51,6 +66,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -69,21 +96,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1581970300937">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="587" y="314" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582058507486">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="587" y="314" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1582058507486" />
+    <state width="1481" height="210" key="GridCell.Tab.0.bottom" timestamp="1582058710908">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581970300937" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1581970300937">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1481" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582058710908" />
+    <state width="1481" height="210" key="GridCell.Tab.0.center" timestamp="1582058710908">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581970300937" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1581970300937">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1481" height="210" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582058710908" />
+    <state width="1481" height="210" key="GridCell.Tab.0.left" timestamp="1582058710908">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581970300937" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1581970300937">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1481" height="210" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582058710908" />
+    <state width="1481" height="210" key="GridCell.Tab.0.right" timestamp="1582058710908">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581970300937" />
+    <state width="1481" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582058710908" />
+    <state x="401" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1582058486813">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="401" y="215" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1582058486813" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ScreenRendering$App.ic" NAME="App Coverage Results" MODIFIED="1582058557592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
   </component>
 </project>
